@@ -8,3 +8,8 @@ h1 {
 mark {
   color: blue;
 }
+.h2 {
+  text-align: left;
+  text-decoration: underline;
+  color: brown;
+}
