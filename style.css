@@ -17,12 +17,15 @@ nav ul li a {
   text-transform: uppercase;
 
 
-  padding-left: 100px;
-  padding-right: 25px;
+  padding-left: 35px;
+  padding-right: 35px;
   padding-top: 20px;
   padding-bottom: 20px;
   
   display: inline-block;
+}
+nav ul li a:hover {
+  background-color: black;
 }
 h1 {
   text-align: center;
