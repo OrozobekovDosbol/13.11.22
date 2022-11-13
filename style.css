@@ -14,6 +14,7 @@ mark {
   color: brown;
 }
 .sleva {
+  margin: 10px 10px;
   width: 150px;
   float: left;
 }
