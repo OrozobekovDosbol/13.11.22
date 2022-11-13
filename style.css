@@ -9,7 +9,7 @@ mark {
   color: blue;
 }
 .h2 {
-  text-align: left;
+  text-align: center;
   text-decoration: underline;
   color: brown;
 }
@@ -20,4 +20,5 @@ mark {
 .sprava {
   width:  250px;
   float: right;
+  margin: 10px 10px;
 }
