@@ -13,3 +13,7 @@ mark {
   text-decoration: underline;
   color: brown;
 }
+.sleva {
+  width: 150px;
+  float: left;
+}
